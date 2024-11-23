@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('I 10Ve you Everytime Fiona ')  .split('')
+    const titles = ('I 10Ve you to the moon and back ')  .split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
